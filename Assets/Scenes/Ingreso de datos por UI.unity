@@ -858,9 +858,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4e6d2bbb99063a246b6561b631871450, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  txtUserCloneAmount: {fileID: 25311481}
   objectToClone: {fileID: 590063301479461413, guid: fbc07ceec8aceab46bf5be128f9f7789,
     type: 3}
-  cloneAmount: 0
 --- !u!4 &1137861068
 Transform:
   m_ObjectHideFlags: 0
